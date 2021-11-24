@@ -1,0 +1,27 @@
+p {
+  font-family: Futura;
+  margin: 0!important;
+  letter-spacing: 0.02em;
+}
+li{
+  list-style: none;
+}
+
+img{
+  vertical-align: bottom;
+}
+
+.card__item{
+  border-radius: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.card__img{
+  padding: 1em;
+  width: 100%;
+  height: auto;
+}
+
+.info{
+  margin-bottom: 0;
+}
